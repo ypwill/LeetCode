@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+<script>
+    $(function(){
+        $("#b1").click(function(){
+            $("span").addClass("pink");
+        });
+
+    });
+
+</script>
+<button id="b1">给所有的div元素增加背景色</button>
+<br>
+<br>
+
+<style>
+    .pink{
+        background-color:pink;
+    }
+</style>
+
+<div >
+    Hello JQuery
+</div>
+
+<div >
+    Hello JQuery
+</div>
+
+<span >
+    Hello JQuery
+</span>
+</body>
+</html>

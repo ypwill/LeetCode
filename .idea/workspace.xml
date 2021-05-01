@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6616488-4872-4f89-a890-8e22b7f0789d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Tools\apache-maven-3.3.9\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.3.9/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Tools\apache-maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1lhLFCDObjj1YEyeAPRzQ9S12hp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager" selected="Application.T03">
+    <configuration name="T02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyp.LeetCode.T02" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyp.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyp.LeetCode.T03" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyp.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyp.code.T19" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyp.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyp.code.T20" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyp.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wyp.code.T21" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wyp.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T03" />
+        <item itemvalue="Application.T02" />
+        <item itemvalue="Application.T21" />
+        <item itemvalue="Application.T20" />
+        <item itemvalue="Application.T19" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6616488-4872-4f89-a890-8e22b7f0789d" name="Default Changelist" comment="" />
+      <created>1608044269288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608044269288</updated>
+      <workItem from="1608044270695" duration="2102000" />
+      <workItem from="1608387212000" duration="31000" />
+      <workItem from="1608714326106" duration="181000" />
+      <workItem from="1617503184110" duration="4508000" />
+      <workItem from="1617543373859" duration="7712000" />
+      <workItem from="1617551185593" duration="328000" />
+      <workItem from="1617587907807" duration="5825000" />
+      <workItem from="1617674796837" duration="985000" />
+      <workItem from="1617719155166" duration="1459000" />
+      <workItem from="1617756378757" duration="2249000" />
+      <workItem from="1617759819297" duration="605000" />
+      <workItem from="1617775124816" duration="1775000" />
+      <workItem from="1617787907779" duration="2757000" />
+      <workItem from="1617791483615" duration="331000" />
+      <workItem from="1617796145848" duration="9000" />
+      <workItem from="1617800778495" duration="1963000" />
+      <workItem from="1617852599792" duration="8000" />
+      <workItem from="1617886945695" duration="4908000" />
+      <workItem from="1618067578608" duration="1998000" />
+      <workItem from="1618139788525" duration="63000" />
+      <workItem from="1618153766128" duration="4109000" />
+      <workItem from="1618189515498" duration="20000" />
+      <workItem from="1618323043595" duration="4328000" />
+      <workItem from="1618362663757" duration="54000" />
+      <workItem from="1618404629580" duration="2639000" />
+      <workItem from="1618534056860" duration="511000" />
+      <workItem from="1618582135561" duration="1859000" />
+      <workItem from="1618622406447" duration="7000" />
+      <workItem from="1618752261647" duration="598000" />
+      <workItem from="1618794920857" duration="68000" />
+      <workItem from="1619010005713" duration="6728000" />
+      <workItem from="1619072612790" duration="9000" />
+      <workItem from="1619233046857" duration="1689000" />
+      <workItem from="1619245864789" duration="6898000" />
+      <workItem from="1619271384457" duration="3428000" />
+      <workItem from="1619353317179" duration="8591000" />
+      <workItem from="1619401397127" duration="10579000" />
+      <workItem from="1619485884202" duration="1754000" />
+      <workItem from="1619538134126" duration="1439000" />
+      <workItem from="1619578767223" duration="2077000" />
+      <workItem from="1619584056604" duration="1414000" />
+      <workItem from="1619613610400" duration="1946000" />
+      <workItem from="1619621401541" duration="2902000" />
+      <workItem from="1619660481547" duration="1869000" />
+      <workItem from="1619707875211" duration="2229000" />
+      <workItem from="1619796277721" duration="2335000" />
+      <workItem from="1619863516981" duration="2761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="39" key="#Notifications" timestamp="1619354587498">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1619354587498" />
+    <state x="446" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1619491603743">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1619491603743" />
+    <state width="1237" height="243" key="GridCell.Tab.0.bottom" timestamp="1619865022254">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="243" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1619865022254" />
+    <state width="1237" height="243" key="GridCell.Tab.0.center" timestamp="1619865022253">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="243" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1619865022253" />
+    <state width="1237" height="243" key="GridCell.Tab.0.left" timestamp="1619865022253">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="243" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1619865022253" />
+    <state width="1237" height="243" key="GridCell.Tab.0.right" timestamp="1619865022253">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="243" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1619865022253" />
+    <state width="1237" height="236" key="GridCell.Tab.1.bottom" timestamp="1619864336643">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1619864336643" />
+    <state width="1237" height="236" key="GridCell.Tab.1.center" timestamp="1619864336642">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1619864336642" />
+    <state width="1237" height="236" key="GridCell.Tab.1.left" timestamp="1619864336642">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1619864336642" />
+    <state width="1237" height="236" key="GridCell.Tab.1.right" timestamp="1619864336642">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1619864336642" />
+    <state x="6" y="82" key="new project wizard" timestamp="1618362715483">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="6" y="82" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1618362715483" />
+    <state x="299" y="172" key="run.anything.popup" timestamp="1617788359502">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="299" y="172" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1617788359502" />
+    <state x="304" y="83" width="672" height="678" key="search.everywhere.popup" timestamp="1619439524925">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="304" y="83" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1619439524925" />
+  </component>
+</project>
